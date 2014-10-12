@@ -1,0 +1,34 @@
+{
+    "item_type": "article",
+    "url": "http://www.spiegel.de/panorama/flug-mh17-regierung-hat-keine-sicheren-erkenntnisse-ueber-abschuss-a-990288.html",
+    "discovery_date": "07-09-2014",
+
+    "extracted": {
+        "canonical_url": "http://www.spiegel.de/panorama/flug-mh17-regierung-hat-keine-sicheren-erkenntnisse-ueber-abschuss-a-990288.html",
+        "language": "ger",
+        "title": "Bundesregierung zu Flug MH17: Keine "gesicherten Erkenntnisse" über Abschuss",
+        "description": "", 
+        "og": {
+		"titel": "Bundesregierung zu Flug MH17: Keine "gesicherten Erkenntnisse" über Abschuss - SPIEGEL ONLINE",
+		"type": "article",
+		"url": "http://www.spiegel.de/panorama/flug-mh17-regierung-hat-keine-sicheren-erkenntnisse-ueber-abschuss-a-990288.html",
+		"image": "http://cdn1.spiegel.de/images/image-746354-galleryV9-ymvm.jpg",
+		"site_name": "SPIEGEL ONLINE",
+		"description": "Die letzten Minuten des Fluges MH17 hatten Nato-Aufklärflugzeuge nicht mehr auf dem Radar - das geht aus einer Stellungnahme der Bundesregierung hervor. Über einen Beschuss mit Boden-Luft-Raketen gebe es "keine gesicherten Erkenntnisse",
+ 
+ },
+        "twitter": {
+		"card": "},
+    },
+
+    "editors": { // Editor data
+        "@philippe": {
+            "initial_submitter": true,
+            "tags": ["MH17", "Ukraine", "crash", "not shure if shot down" ],
+            "topics": ["MH17", "Ukraine", "DNR", "Russia"],
+            "event_date": 17-07-2014
+        },
+    }
+
+    "approved": { 
+}
