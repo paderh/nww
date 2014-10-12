@@ -1,0 +1,46 @@
+{
+    "item_type": "article",
+    "url": "http://www.bbc.com/news/world-europe-28400213",
+    "discovery_date": "22-07-2014",
+
+    "extracted": {
+        "canonical_url": "http://www.bbc.com/news/world-europe-28400213",
+        "language": "eng",
+        "title": "MH17 plane crash EU moment of decision",
+        "description": "", 
+        "og": {
+		      "titel": "MH17 plane crash: EU moment of decision",
+		      "type": "article",
+		      "url": "http://www.bbc.com/news/world-europe-28400213",
+		      "image": "http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg",
+		      "site_name": "BBC News",
+		      "description": "The EU is poised for tougher sanctions against Russia - but there could be much economic pain, Europe editor Gavin Hewitt writes.",
+ 
+        },
+        "twitter": {
+          "card": "summary",
+          "site": "@BBC",
+          "title": "MH17 plane crash: EU moment of decision",
+          "description": "",
+          "image:src": "",
+        }
+    },
+
+    "editors": { // Editor data
+        "@philippe": {
+            "initial_submitter": true,
+            "tags": ["MH17", "Ukraine", "plane crash", "European sanctions", "asset freez" ],
+            "topics": ["MH17", "Ukraine", "Russia", "Sanctions"],
+            "event_date": 17-07-2014
+        },
+        "@bogdan": {
+            "tags": ["MH17", "Russia", "Terror"],
+        }
+    },
+    
+"approval": [
+    {
+        "topic": null
+    }
+  ]
+}
