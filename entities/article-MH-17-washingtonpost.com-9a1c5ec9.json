@@ -1,0 +1,44 @@
+{
+    "item_type": "article",
+    "url": "http://www.washingtonpost.com/world/russians-have-many-theories-about-the-mh17-crash-one-involves-fake-dead-people/2014/07/22/9a1c5ec9-11b6-4384-b585-53fff62e5779_story.html",
+    "discovery_date": "22-07-2014",
+
+    "extracted": {
+        "canonical_url": "  http://www.washingtonpost.com/world/russians-have-many-theories-about-the-mh17-crash-one-involves-fake-dead-people/2014/07/22/9a1c5ec9-11b6-4384-b585-53fff62e5779_story.html",
+        "language": "eng",
+        "title": "Russians have many theories abut the MH17 crash. One involves fake dead people.",
+        "description": "", 
+        "og": {
+          "titel": "Russians have many theories about the MH17 crash. One involves fake dead people.",
+          "type": "article",
+          "url": "http://www.washingtonpost.com/world/russians-have-many-theories-about-the-mh17-crash-one-involves-fake-dead-people/2014/07/22/9a1c5ec9-11b6-4384-b585-53fff62e5779_story.html",
+          "image": "http://www.washingtonpost.com/rf/image_2048w/2010-2019/WashingtonPost/2014/07/22/Foreign/Images/452525546.jpg",
+          "site_name": "Washington Post",
+          "description": "What might seem like conspiracy theories on Ukraine crisis are common in Russian media",
+        },
+        "twitter": {
+          "card": "summary",
+          "site": "@washingtonpost",
+          "title": "Russians have many theories about the MH17 crash. One involves fake...",
+          "description": "What might seem like conspiracy theories on Ukraine crisis are common in Russian media ",
+          "image:src": "https://image-proxy-origin.twimg.com/2/preview.jpg?t=HBhtaHR0cDovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcmYvaW1hZ2VfMjA0OHcvMjAxMC0yMDE5L1dhc2hpbmd0b25Qb3N0LzIwMTQvMDcvMjIvRm9yZWlnbi9JbWFnZXMvNDUyNTI1NTQ2LmpwZxTABxT-BAAWlo-oxKBSEQA&s=HUkDE6ycY-AvahbplrKz_AWQa44DvkiNHdwJHAg8JcE",
+          }
+    },
+
+    "editors": { // Editor data
+        "@philippe": {
+            "initial_submitter": true,
+            "tags": ["MH17", "Ukraine", "plane crash", "russian theory", "deod people" ],
+            "topics": ["MH17", "Ukraine", "DNR", "Russia"],
+            "event_date": 17-07-2014
+            },
+            "@bogdan": {
+            "tags": ["MH17", "Russia", "Terror"],
+            }
+        },
+        "approval": [
+          {
+          "topic": null
+          }
+      ]
+}
