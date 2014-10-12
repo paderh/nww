@@ -6,29 +6,45 @@
     "extracted": {
         "canonical_url": "http://www.spiegel.de/panorama/flug-mh17-regierung-hat-keine-sicheren-erkenntnisse-ueber-abschuss-a-990288.html",
         "language": "ger",
-        "title": "Bundesregierung zu Flug MH17: Keine "gesicherten Erkenntnisse" über Abschuss",
+        "title": "Bundesregierung zu Flug MH17: Keine \"gesicherten Erkenntnisse\" über Abschuss",
         "description": "", 
         "og": {
-		"titel": "Bundesregierung zu Flug MH17: Keine "gesicherten Erkenntnisse" über Abschuss - SPIEGEL ONLINE",
+		"titel": "Bundesregierung zu Flug MH17: Keine \"gesicherten Erkenntnisse\" über Abschuss - SPIEGEL ONLINE",
 		"type": "article",
 		"url": "http://www.spiegel.de/panorama/flug-mh17-regierung-hat-keine-sicheren-erkenntnisse-ueber-abschuss-a-990288.html",
 		"image": "http://cdn1.spiegel.de/images/image-746354-galleryV9-ymvm.jpg",
 		"site_name": "SPIEGEL ONLINE",
 		"description": "Die letzten Minuten des Fluges MH17 hatten Nato-Aufklärflugzeuge nicht mehr auf dem Radar - das geht aus einer Stellungnahme der Bundesregierung hervor. Über einen Beschuss mit Boden-Luft-Raketen gebe es "keine gesicherten Erkenntnisse",
  
- },
-        "twitter": {
-		"card": "},
+ 	},
+ 	"twitter": {
+ 		"card": "summary",
+ 		"site": "@SPIEGELONLINE",
+ 		"title": "Bundesregierung zu Flug MH17: Keine \"gesicherten Erkenntnisse\" über...",
+ 		"description": "Die letzten Minuten des Fluges MH17 hatten Nato-Aufklärflugzeuge nicht mehr auf dem Radar - das geht aus einer Stellungnahme der Bundesregierung hervor. Über einen Beschuss mit Boden-Luft-Raketen... ",
+ 		"image:src": "https://image-proxy-origin.twimg.com/2/preview.jpg?t=HBg9aHR0cDovL2NkbjEuc3BpZWdlbC5kZS9pbWFnZXMvaW1hZ2UtNzQ2MzU0LWdhbGxlcnlWOS15bXZtLmpwZxTgAxToAhwUCBQGAAAW3qaHwqBSEQA&s=pyPUmPFsLTkl8TZDAGAEUDb0VmXvslg2NomLJd5UtnQ",
+ 	}
+
     },
 
-    "editors": { // Editor data
+    "editors": {
         "@philippe": {
             "initial_submitter": true,
-            "tags": ["MH17", "Ukraine", "crash", "not shure if shot down" ],
+            "tags": ["MH17", "Ukraine", "crash", "shot down" ],
             "topics": ["MH17", "Ukraine", "DNR", "Russia"],
             "event_date": 17-07-2014
         },
-    }
-
-    "approved": { 
+        "@bogdan": {
+        	"tags": ["MH17", "Russia", "Terror"],
+        	
+        }
+    	
+    },
+    "approval": [
+    	{
+    		"topic": null
+    		
+    	}
+    	]
+	
 }
