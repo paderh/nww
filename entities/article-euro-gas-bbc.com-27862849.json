@@ -1,0 +1,33 @@
+{
+"item_type": "article",
+"url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html",
+"discovery_date": "14-10-2014",
+"extracted": {
+"canonical_url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html",
+"language": "eng",
+"title": "Russia’s Gazprom and Ukraine are in a gas dispute as winter approaches ",
+"description": "A last-ditch plan to help Ukraine this winter may be derailed by squabbling over Russia's price for natural gas.",
+"og": {
+"titel": "Russia’s Gazprom and Ukraine are in a gas dispute as winter approaches.",
+"type": "article",
+"url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html"
+"image": "http://www.washingtonpost.com/rf/image_2048w/2010-2019/WashingtonPost/2014/09/27/Interactivity/Images/crop_mobile455696134.jpg",
+"site_name": "Washington Post",
+"description": "A last-ditch plan to help Ukraine this winter may be derailed by squabbling over Russia's price for natural gas.",
+},
+"twitter": {
+"card": "summary_large_image",
+"site": "@WashingtonPost"
+}
+},
+"editors": {
+"@philippe": {
+"initial_submitter": true,
+"tags": ["Ukraine", "gas", "Russia", "winter", "problem heating" ],
+"topics": ["Ukraine", "Russia", "gas"],
+"event_date": "27-09-2014"
+},
+}
+"approved": {
+}
+}
