@@ -1,33 +1,39 @@
 {
-"item_type": "article",
-"url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html",
-"discovery_date": "14-10-2014",
-"extracted": {
-"canonical_url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html",
-"language": "eng",
-"title": "Russia’s Gazprom and Ukraine are in a gas dispute as winter approaches ",
-"description": "A last-ditch plan to help Ukraine this winter may be derailed by squabbling over Russia's price for natural gas.",
-"og": {
-"titel": "Russia’s Gazprom and Ukraine are in a gas dispute as winter approaches.",
-"type": "article",
-"url": "http://www.washingtonpost.com/world/europe/russias-gazprom-and-ukraine-are-in-a-gas-dispute-as-winter-approaches/2014/09/27/a7c9bcb2-45a8-11e4-b437-1a7368204804_story.html"
-"image": "http://www.washingtonpost.com/rf/image_2048w/2010-2019/WashingtonPost/2014/09/27/Interactivity/Images/crop_mobile455696134.jpg",
-"site_name": "Washington Post",
-"description": "A last-ditch plan to help Ukraine this winter may be derailed by squabbling over Russia's price for natural gas.",
-},
-"twitter": {
-"card": "summary_large_image",
-"site": "@WashingtonPost"
-}
-},
-"editors": {
-"@philippe": {
-"initial_submitter": true,
-"tags": ["Ukraine", "gas", "Russia", "winter", "problem heating" ],
-"topics": ["Ukraine", "Russia", "gas"],
-"event_date": "27-09-2014"
-},
-}
-"approved": {
-}
+  "item_type": "article",
+  "url": "http://www.bbc.com/news/world-europe-27862849",
+  "discovery_date": "14-10-2014",
+  "extracted": {
+    "canonical_url": "http://www.bbc.com/news/world-europe-27862849",
+    "language": "eng",
+    "title": "Ukraine crisis: Russia halts gas supplies to Kiev",
+    "description": "Ukraine says Russia has cut off all gas supplies after talks fail to resolve a dispute over debts amid high tension in Ukraine&#039;s eastern regions.",
+    "og": {
+      "titel": "Russia halts gas supply to Ukraine",
+      "type": "article",
+      "url": "http://www.bbc.com/news/world-europe-27862849"
+      "image": "http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg",
+      "site_name": "BBC News",
+      
+    },
+    "twitter": {
+      "card": "summary",
+      "site": "@BBC"
+      
+    }
+    
+  },
+  "editors": {
+    "@philippe": {
+      "initial_submitter": true,
+      "tags": ["Ukraine", "gas", "Russia", "cut gas", "major dispute", "Gazprom", "Alexei Miller" ],
+      "topics": ["Ukraine", "Russia", "gas"],
+      "event_date": "16-06-2014",
+      
+    },
+    
+  }
+  "approved": {
+    
+  }
+  
 }
