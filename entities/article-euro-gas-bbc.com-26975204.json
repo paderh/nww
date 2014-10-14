@@ -9,24 +9,27 @@
         "title": "Ukraine-Krise: Moskau droht Europa mit reduzierter ",
         "description": "", 
         "og": {
-		          "titel": "Ukraine-Krise: Moskau droht Europa mit reduzierter ",
-		          "type": "article",
-	           	"url": "http://www.spiegel.de/wirtschaft/soziales/gasstreit-russland-droht-reexporte-aus-eu-in-ukraine-abzuwuergen-a-990532.html",
-	          	"image": "http://cdn1.spiegel.de/images/image-701074-galleryV9-gfcc.jpg",
-	            "site_name": "SPIEGEL ONLINE",
-		          "description": "Der Ukraine steht ein kalter Winter bevor - soll die EU dem Land russisches Gas weiterleiten? Laut "Financial Times" stellt Moskau klar: In diesem Fall würde man die Lieferungen an die Europäer drosseln.",
+        	"titel": "Ukraine-Krise: Moskau droht Europa mit reduzierter ",
+        	"type": "article",
+        	"url": "http://www.spiegel.de/wirtschaft/soziales/gasstreit-russland-droht-reexporte-aus-eu-in-ukraine-abzuwuergen-a-990532.html"
+        	"image": "http://cdn1.spiegel.de/images/image-701074-galleryV9-gfcc.jpg",
+        	"site_name": "SPIEGEL ONLINE",
+        	"description": "Der Ukraine steht ein kalter Winter bevor - soll die EU dem Land russisches Gas weiterleiten? Laut "Financial Times" stellt Moskau klar: In diesem Fall würde man die Lieferungen an die Europäer drosseln.",
  
  },
         "twitter": {
-		"card": "},
+        	"card": "summary",
+        	"site": "@SPIEGELONLINE"
+        	
+        }
     },
 
-    "editors": { // Editor data
+    "editors": {
         "@philippe": {
             "initial_submitter": true,
             "tags": ["Ukraine", "gas", "European sanctions", "asset freez" ],
             "topics": ["Ukraine", "Russia", "gas"],
-            "event_date": 10-04-2014
+            "event_date": "10-04-2014"
         },
     }
 
