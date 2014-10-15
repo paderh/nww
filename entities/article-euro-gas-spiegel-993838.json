@@ -1,33 +1,40 @@
 {
-"item_type": "article",
-"url": "",
-"discovery_date": "14-10-2014",
-"extracted": {
-"canonical_url": "",
-"language": "deu",
-"title": "",
-"description": "",
-"og": {
-"titel": "",
-"type": "article",
-"url": "",
-"image": "",
-"site_name": "SPIEGEL ONLINE",
-"description": "",
-},
-"twitter": {
-"card": "summary",
-"site": "@Die Welt",
-}
-},
-"editors": {
-"@philippe": {
-"initial_submitter": true,
-"tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine", "Günther Öttinger", "Gazprom", "Alexeih Miller." ],
-"topics": ["Ukraine", "Russia", "gas"],
-"event_date": "10-04-2014"
-},
-}
-"approved": {
-}
+  "item_type": "article",
+  "url": "http://www.spiegel.de/wirtschaft/unternehmen/ukraine-konflikt-russland-droht-eu-mit-stopp-von-gaslieferungen-a-993838.html",
+  "discovery_date": "15-10-2014",
+  "extracted": {
+    "canonical_url": "http://www.spiegel.de/wirtschaft/unternehmen/ukraine-konflikt-russland-droht-eu-mit-stopp-von-gaslieferungen-a-993838.html",
+    "language": "deu"
+    "title": "Ukraine-Konflikt: Kreml droht EU mit Unterbrechung von Gaslieferungen - SPIEGEL ONLINE",
+    "description": "Vor einer neuen Verhandlungsrunde im Gasstreit mit der Ukraine verschärft die russische Regierung den Ton: Auch die Versorgung der EU könnte unterbrochen werden, falls diese Gas an die Ukraine weiterleite. Für den Ernstfall bietet Norwegen etwas Abhilfe an.",
+    "og": {
+      "titel": "Ukraine-Konflikt: Kreml droht EU mit Unterbrechung von Gaslieferungen - SPIEGEL ONLINE",
+      "type": "article",
+      "url": "http://www.spiegel.de/wirtschaft/unternehmen/ukraine-konflikt-russland-droht-eu-mit-stopp-von-gaslieferungen-a-993838.html",
+      "image": "http://cdn1.spiegel.de/images/image-731240-galleryV9-glrs.jpg",
+      "site_name": "SPIEGEL ONLINE",
+      "description": "Vor einer neuen Verhandlungsrunde im Gasstreit mit der Ukraine verschärft die russische Regierung den Ton: Auch die Versorgung der EU könnte unterbrochen werden, falls diese Gas an die Ukraine weiterleite. Für den Ernstfall bietet Norwegen etwas Abhilfe an.",
+      
+    },
+    "twitter": {
+      "card": "summary",
+      "site": "@SPIEGELONLINE",
+      
+    }
+    
+  },
+  "editors": {
+    "@philippe": {
+      "initial_submitter": true,
+      "tags": ["Ukraine", "gas", "EU gas supply", "European sanctions", "Russia threatens Ukraine", "Gazprom","Günther Oettinger",  "Alexei Miller." ],
+      "topics": ["Ukraine", "Russia", "gas"],
+      "event_date": "26-09-2014"
+      
+    },
+    
+  }
+  "approved": {
+    
+  }
+  
 }
