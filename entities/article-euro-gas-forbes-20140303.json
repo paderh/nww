@@ -1,35 +1,40 @@
 {
-"item_type": "article",
-"url": "http://www.nytimes.com/2014/06/17/world/europe/russia-gazprom-increases-pressure-on-ukraine-in-gas-dispute.html?_r=0",
-"discovery_date": "15-10-2014",
-"extracted": {
-"canonical_url": "http://www.nytimes.com/2014/06/17/world/europe/russia-gazprom-increases-pressure-on-ukraine-in-gas-dispute.html",
-"language": "eng",
-"title": "Gazprom Cuts Russia’s Natural Gas Supply to Ukraine",
-"description": "The energy company said it would no longer provide gas on credit, prompting worry that supplies to the European Union could be disrupted.",
-"og": {
-"titel": "Gazprom Cuts Russia’s Natural Gas Supply to Ukraine",
-"type": "article",
-"url": "http://www.nytimes.com/2014/06/17/world/europe/russia-gazprom-increases-pressure-on-ukraine-in-gas-dispute.html",
-"site_name": "New York Times",
-"description": "The energy company said it would no longer provide gas on credit, prompting worry that supplies to the European Union could be disrupted.",
-},
-"twitter": {
-"card": "summary",
-"site": "@nytimes",
-"title": "Gazprom Cuts Russia’s Natural Gas Supply to Ukraine",
-"description": "The energy company said it would no longer provide gas on credit, prompting worry that supplies to the European Union could be disrupted.",
-"url": "http://www.nytimes.com/2014/06/17/world/europe/russia-gazprom-increases-pressure-on-ukraine-in-gas-dispute.html",
-}
-},
-"editors": {
-"@philippe": {
-"initial_submitter": true,
-"tags": ["Ukraine", "gas", "$ 2Bn installment of past gas deliveries", "Gazprom", "Alexei Miller"],
-"topics": ["Ukraine", "Russia", "gas"],
-"event_date": "15-07-2014"
-},
-}
-"approved": {
-}
+  "item_type": "article",
+  "url": "http://www.forbes.com/sites/kensilverstein/2014/03/03/russian-ukrainian-conflict-spilling-beyond-borders-and-into-natural-gas-markets/",
+  "discovery_date": "15-10-2014",
+  "extracted": {
+    "canonical_url": "http://www.forbes.com/sites/kensilverstein/2014/03/03/russian-ukrainian-conflict-spilling-beyond-borders-and-into-natural-gas-markets/",
+    "language": "eng",
+    "title": "Russian-Ukrainian Conflict Spilling Beyond Borders And Into Natural Gas Markets",
+    "description": "The Russian and Ukrainian conflict is about freedom -- not just to political expression but also to explore new economic ties with the western world, which includes finding additional access to lucrative natural gas supplies. It&rsquo;s a battle that extends well beyond the walls of the former Soviet Bloc and into ...",
+    "og": {
+      "titel": "Russian-Ukrainian Conflict Spilling Beyond Borders And Into Natural Gas Markets",
+      "type": "article",
+      "url": "http://www.forbes.com/sites/kensilverstein/2014/03/03/russian-ukrainian-conflict-spilling-beyond-borders-and-into-natural-gas-markets/",
+      "image": "http://blogs-images.forbes.com/kensilverstein/files/2014/03/AP8291974089.jpg",
+      "site_name": "Forbes",
+      "description": "The Russian and Ukrainian conflict is about freedom -- not just to political expression but also to explore new economic ties with the western world, which includes finding additional access to lucrative natural gas supplies. It&rsquo;s a battle that extends well beyond the walls of the former Soviet Bloc and into [...]",
+      
+    },
+    "twitter": {
+      "card": "summary",
+      "site": "@forbes",
+      
+    }
+    
+  },
+  "editors": {
+    "@philippe": {
+      "initial_submitter": "true",
+      "tags": ["Ukraine", "gas", "European involvement", "Russia stops shiping gas through Ukraine", "Gazprom", "Alexei Miller", "Putin" ],
+      "topics": ["Ukraine", "Russia", "gas"],
+      "event_date": "03-03-2014"
+      
+    },
+    
+  }
+  "approved": {
+    
+  }
+  
 }
