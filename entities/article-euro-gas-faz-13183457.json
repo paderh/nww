@@ -1,32 +1,40 @@
 {
-"item_type": "article",
-"url": "",
-"discovery_date": "14-10-2014",
-"extracted": {
-"canonical_url": "",
-"language": "deu",
-"title": "",
-"description": "",
-"og": {
-"titel": "",
-"type": "article",
-"url": "",
-"image": "",
-"site_name": "SPIEGEL ONLINE",
-"description": "",
-},
-"twitter": {
-"card": "summary",
-"site": "@Die Welt",
-}
-},
-"editors": {
-"@philippe": {
-"initial_submitter": true,
-"tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine", "Günther Öttinger", "Gazprom", "Alexeih Miller." ],
-"topics": ["Ukraine", "Russia", "gas"],
-"event_date": "10-04-2014"
-},
-}
-"approved": {
+  "item_type": "article",
+  "url": "http://www.faz.net/aktuell/politik/ausland/eu-haelt-sanktionen-gegen-moskau-wegen-ukraine-konflikt-aufrecht-13183457.html",
+  "discovery_date": "15-10-2014",
+  "extracted": {
+    "canonical_url": "http://www.faz.net/aktuell/politik/ausland/eu-haelt-sanktionen-gegen-moskau-wegen-ukraine-konflikt-aufrecht-13183457.html",
+    "language": "deu",
+    "title": "EU hält Sanktionen gegen Moskau wegen Ukraine-Konflikt aufrecht",
+    "description": "Am Flughafen von Donezk liefern sich Regierungstruppen und Separatisten wieder blutige Gefechte. Auch deshalb h&auml;lt die EU an...",
+    "og": {
+      "titel": "Ukraine-Konflikt : EU hält an Sanktionen gegen Moskau fest",
+      "type": "article",
+      "url": "http://www.faz.net/aktuell/politik/ausland/eu-haelt-sanktionen-gegen-moskau-wegen-ukraine-konflikt-aufrecht-13183457.html",
+      "image": "http://media0.faz.net/ppmedia/aktuell/3046757241/1.3183522/article_multimedia_overview/nahe-donezk-soll-es-wieder-zu-gefechten-zwischen-der-ukrainischen-armee-und-aufstaendischen-gekommen-sein.jpg",
+      "site_name": "FAZ",
+      "description": "",
+      
+    },
+    "twitter": {
+      "card": "summary",
+      "site": "@faz_topnews",
+      "description": "Am Flughafen von Donezk liefern sich Regierungstruppen und Separatisten wieder blutige Gefechte. Auch deshalb hält die EU an ihren Sanktionen gegen Russland fest. Der Kreml fordert derweil von der Ukraine drei Milliarden Euro.",
+      
+    }
+    
+  },
+  "editors": {
+    "@philippe": {
+      "initial_submitter": true,
+      "tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine"],
+      "topics": ["Ukraine", "Russia", "gas"],
+      "event_date": "10-04-2014"
+      
+    },
+    
+  }
+  "approved": {
+    
+  }
 }
