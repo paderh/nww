@@ -1,0 +1,33 @@
+{
+"item_type": "article",
+"url": "",
+"discovery_date": "14-10-2014",
+"extracted": {
+"canonical_url": "",
+"language": "deu",
+"title": "",
+"description": "",
+"og": {
+"titel": "",
+"type": "article",
+"url": "",
+"image": "",
+"site_name": "SPIEGEL ONLINE",
+"description": "",
+},
+"twitter": {
+"card": "summary",
+"site": "@Die Welt",
+}
+},
+"editors": {
+"@philippe": {
+"initial_submitter": true,
+"tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine", "Günther Öttinger", "Gazprom", "Alexeih Miller." ],
+"topics": ["Ukraine", "Russia", "gas"],
+"event_date": "10-04-2014"
+},
+}
+"approved": {
+}
+}
