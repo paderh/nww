@@ -1,33 +1,40 @@
 {
-"item_type": "article",
-"url": "",
-"discovery_date": "14-10-2014",
-"extracted": {
-"canonical_url": "",
-"language": "deu",
-"title": "",
-"description": "",
-"og": {
-"titel": "",
-"type": "article",
-"url": "",
-"image": "",
-"site_name": "SPIEGEL ONLINE",
-"description": "",
-},
-"twitter": {
-"card": "summary",
-"site": "@Die Welt",
-}
-},
-"editors": {
-"@philippe": {
-"initial_submitter": true,
-"tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine", "Günther Öttinger", "Gazprom", "Alexeih Miller." ],
-"topics": ["Ukraine", "Russia", "gas"],
-"event_date": "10-04-2014"
-},
+  "item_type": "article",
+  "url": "http://www.zeit.de/politik/ausland/2014-10/ukraine-russland-friedenssignale",
+  "discovery_date": "15-10-2014",
+  "extracted": {
+    "canonical_url": "http://www.zeit.de/politik/ausland/2014-10/ukraine-russland-friedenssignale",
+    "language": "deu",
+    "title": "Ukraine-Krieg: Friedenssignale aus Moskau und Kiew",
+    "description": "Russlands Truppenrückzug deutet auf ein Einlenken im Ukraine-Konflikt hin. Der ukrainische Staatschef Poroschenko will gemeinsam mit Putin eine Lösung finden.",
+    "og": {
+      "titel": "Ukraine-Krieg: Friedenssignale aus Moskau und Kiew",
+      "type": "article",
+      "url": "http://www.zeit.de/politik/ausland/2014-10/ukraine-russland-friedenssignale",
+      "image": "http://images.zeit.de/politik/2013-08/fuenf-vor-acht-matthias-nass/fuenf-vor-acht-matthias-nass-540x304.jpg",
+      "site_name": "ZEIT ONLINE",
+      "description": "Russlands Truppenrückzug deutet auf ein Einlenken im Ukraine-Konflikt hin. Der ukrainische Staatschef Poroschenko will gemeinsam mit Putin eine Lösung finden.",
+      
+    },
+    "twitter": {
+      "card": "photo",
+      "site": "@ZEITONLINE",
+      "description": "Russlands Truppenrückzug deutet auf ein Einlenken im Ukraine-Konflikt hin. Der ukrainische Staatschef Poroschenko will gemeinsam mit Putin eine Lösung finden."m
+      "image": "http://images.zeit.de/politik/2013-08/fuenf-vor-acht-matthias-nass/fuenf-vor-acht-matthias-nass-540x304.jpg"
+      
+    }
+    
+  },
+  "editors": {
+    "@philippe": {
+      "initial_submitter": true,
+      "tags": ["Ukraine", "gas", "Poroschenko", "Jazenuk", "Boris Nemzov", "European sanctions", "hope in Russia Ukrain negociations", "Putin" ],
+      "topics": ["Ukraine", "Russia", "gas"],
+      "event_date": "15-10-2014"
+      
+    },
 }
 "approved": {
+  
 }
-}
+
