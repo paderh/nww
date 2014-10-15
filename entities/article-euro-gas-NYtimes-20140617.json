@@ -1,0 +1,32 @@
+{
+"item_type": "article",
+"url": "http://www.welt.de/wirtschaft/article132651111/Russland-droht-Europa-mit-Lieferstopps-beim-Gas.html",
+"discovery_date": "14-10-2014",
+"extracted": {
+"canonical_url": "http://www.welt.de/wirtschaft/article132651111/Russland-droht-Europa-mit-Lieferstopps-beim-Gas.html",
+"language": "deu",
+"title": "Ukraine-Konflikt: Russland droht Europa im Gasstreit - Nachrichten Wirtschaft",
+"description": "",
+"og": {
+"titel": "Ukraine-Krise: Moskau droht Europa mit reduzierter ",
+"type": "article",
+"url": "http://www.spiegel.de/wirtschaft/soziales/gasstreit-russland-droht-reexporte-aus-eu-in-ukraine-abzuwuergen-a-990532.html",
+"image": "http://cdn1.spiegel.de/images/image-701074-galleryV9-gfcc.jpg",
+"site_name": "SPIEGEL ONLINE",
+"description": "Moskau warnt: Sollte die EU Gas aus Russland an die Ukraine weiterleiten, will Moskau die Lieferungen einschränken. Auch ein anderes Land wendet sich jetzt gegen Kiew.",
+},
+"twitter": {
+"card": "summary",
+"site": "@Die Welt",
+}
+},
+"editors": {
+"@philippe": {
+"initial_submitter": true,
+"tags": ["Ukraine", "gas", "European sanctions", "Russia threatens Ukraine", "Günther Öttinger", "Gazprom", "Alexeih Miller." ],
+"topics": ["Ukraine", "Russia", "gas"],
+"event_date": "10-04-2014"
+},
+}
+"approved": {
+}
